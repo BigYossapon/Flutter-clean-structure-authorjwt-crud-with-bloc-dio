@@ -1,6 +1,6 @@
 # apptester
 
-A new Flutter project.
+if you want test with mysql postgre pls change table id to string
 
 ## Getting Started
 
